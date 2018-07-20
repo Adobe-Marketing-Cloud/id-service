@@ -4,8 +4,10 @@ The ID service provides a universal, persistent ID that identifies your visitors
 
 ## Instructions
 
-Visit the [Releases](https://github.com/Adobe-Marketing-Cloud/id-service/releases) tab and download the `visitorapi.min.js` library.
+Visit the [Releases](https://github.com/Adobe-Marketing-Cloud/id-service/releases) tab and download the `source.zip` folder which contains the `lib/visitorapi.min.js` library.
+
+If you are looking for the latest version, you can find it [here](https://github.com/Adobe-Marketing-Cloud/id-service/releases/latest).
 
 ## Docs
 
-[Read public docs](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-home.html)
+[Read the public docs](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-home.html)
